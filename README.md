@@ -1,1 +1,1 @@
-# cashing
+# cash
